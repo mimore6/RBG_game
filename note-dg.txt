@@ -1,0 +1,16 @@
+Javascript:
+
+- DO NOT REPEAT YOURSELF! La règle number 1, si tu ecris le même code a différents endroit tu peux surement faire une fonction.
+- Faire attention au indentations pour qu'elles soit toute les mêmes. (C'est toujours la première chose que le monde check quand on t'évalue, si ton code est propres et organiser.) 
+- Pas de commentaire (Ya deux facon de penser la dessus celle de mettre plein de commentaire, ou celle qui dit que mettre des commentaires c'est parce que ton code est pas clair. Je suis de la deuxième)
+- Fractionner le code en petit fonctions
+- Utiliser un fonction d'initialisation (Ca peux eviter que ton browser essaie d'exécuter ton script avant qu'il ne load.)
+- Regrouper les fonctions ensemble et la logique ensemble (eventuellement tu les mets dans des fichiers différents mais ca c'est plus avancé)
+- Éviter les nom de variables qui ne veullent rien dire genre (el)
+- Utilise les ES6 arrow function pour les callback (https://www.sitepoint.com/es6-arrow-functions-new-fat-concise-syntax-javascript/)
+- Utilise ES6 string template a la place de conquatener les string et les variable ensemble (https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals)
+
+CSS:
+
+- Faire attention au indentation pour qu'elles soit toute les mêmes. 
+- Utiliser le plus possible des classes et non le nom des element ex: button (Parce que ca peux créé des conflits surtout dans les plus gros projet)
